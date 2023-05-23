@@ -1,1 +1,1 @@
-# Skillfactory-Homework-19.7.2
+Домашнее задание 19.7.2
